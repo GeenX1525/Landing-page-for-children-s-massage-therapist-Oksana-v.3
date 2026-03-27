@@ -1,0 +1,11 @@
+{
+  "name": "oksana-baby-massage-landing",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Лендинг детского массажиста Оксаны",
+  "scripts": {
+    "dev": "npx --yes serve .",
+    "start": "npx --yes serve ."
+  }
+}
+
