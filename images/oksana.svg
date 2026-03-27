@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#16a34a" stop-opacity="0.10"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.88"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="#f7fbf8"/>
+  <circle cx="250" cy="160" r="220" fill="url(#g)"/>
+  <circle cx="980" cy="180" r="260" fill="url(#g)"/>
+  <circle cx="980" cy="720" r="300" fill="url(#g)"/>
+
+  <rect x="90" y="90" width="1020" height="720" rx="34" fill="url(#card)" stroke="#dbe7df" stroke-width="4"/>
+
+  <g font-family="Arial, sans-serif" fill="#0f172a">
+    <text x="150" y="200" font-size="54" font-weight="800">$>B> :A0=K</text>
+    <text x="150" y="270" font-size="28" fill="#475569">
+      0<5=8B5 D09; =0 @50;L=>5 87>1@065=85 (images/oksana.png / oksana.svg)
+    </text>
+  </g>
+
+  <g fill="none" stroke="#16a34a" stroke-width="10" stroke-linecap="round" opacity="0.65">
+    <path d="M190 520 C 320 420, 420 420, 540 520 S 760 620, 930 520"/>
+    <path d="M220 610 C 360 520, 460 520, 580 610 S 800 700, 960 610"/>
+  </g>
+</svg>
